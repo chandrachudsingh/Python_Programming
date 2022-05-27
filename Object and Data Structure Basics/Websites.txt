@@ -1,0 +1,5 @@
+Old & New styles:   https://pyformat.info/
+Basic Practice:   http://codingbat.com/python
+Harder Practice:    https://projecteuler.net/archives
+List of Practice Problems:    http://www.codeabbey.com/index/task_list
+A very tricky website:    http://www.pythonchallenge.com/

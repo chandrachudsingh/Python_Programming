@@ -1,0 +1,10 @@
+CARD GAME --> 'War'
+
+
+Rules :-
+1. Deck of cards is randomly shuffled and distributed equally to 2 players.
+2. Two players draw a card each time.
+3. If Player with bigger card value takes both the card.
+4. If both players draw equal value cards, its a 'war' condition. Now each player draws equal no. of cards and put them aside:-
+		- Again each player draws a card, whichever's card is bigger takes the set of cards dran previously and the two cards drawn now.
+5. At last the player with the whole deck is the winner.
